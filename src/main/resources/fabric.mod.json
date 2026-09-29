@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "texturetomap",
+  "version": "2.1.0-26.2",
+  "name": "TextureToMap",
+  "description": "Convert textures to Minecraft maps with GUI block selection",
+  "authors": [
+    "Logicbromr"
+  ],
+  "contact": {
+    "homepage": "https://github.com/Logicbromr/TextureToMap-Unofficial-"
+  },
+  "license": "MIT",
+  "icon": "assets/texturetomap/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.stev01.texturetomap.TextureToMap"
+    ],
+    "client": [
+      "com.stev01.texturetomap.client.TextureToMapClient"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "fabric": "*",
+    "minecraft": "26.2"
+  }
+}
