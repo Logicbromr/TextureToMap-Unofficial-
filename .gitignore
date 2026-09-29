@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+bin/
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+.factorypath
+
+# Minecraft
+run/
+.minecraft/
+
+# Others
+*.class
+*.log
+local.properties
