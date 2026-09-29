@@ -1,0 +1,9 @@
+{
+  "key.texturetomap.open_gui": "Open TextureToMap GUI",
+  "category.texturetomap": "TextureToMap",
+  "text.texturetomap.title": "TextureToMap - Block Selector",
+  "text.texturetomap.search": "Search blocks...",
+  "text.texturetomap.convert": "Convert Selected",
+  "text.texturetomap.cancel": "Cancel",
+  "text.texturetomap.no_blocks": "No blocks found"
+}
