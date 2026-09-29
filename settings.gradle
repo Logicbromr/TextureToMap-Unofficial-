@@ -1,5 +1,6 @@
 pluginManagement {
     repositories {
+        maven { url = 'https://libraries.minecraft.net/' }
         maven { url = 'https://maven.fabricmc.net/' }
         gradlePluginPortal()
         mavenCentral()
@@ -9,6 +10,7 @@ pluginManagement {
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
     repositories {
+        maven { url = 'https://libraries.minecraft.net/' }
         maven { url = 'https://maven.fabricmc.net/' }
         mavenCentral()
     }
